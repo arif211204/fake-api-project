@@ -227,7 +227,7 @@
       "location": "Jakarta",
       "description": "Yuk bergabung dalam Cikal-Amri After School Program: Sekolah Musik Cikal! Dalam program ini, teman-teman dapat mengasah keterampilan audio-visual melalui kegiatan bermain alat musik yang dapat dipilih sesuai minat teman-teman.",
       "category": "Keluarga",
-      "price": 1500000,
+      "price": 150000,
       "stock": 150,
       "createdBy": 3,
       "participants": []
@@ -454,15 +454,15 @@
   "carousel": [
     {
       "id": 1,
-      "imageCarousel": "https://i.postimg.cc/3RFBmZCS/1688307238-r-Jo0og-1.jpg"
+      "imageCarousel": "https://www.loket.com/e/loketmusik?utm_source=Organic&utm_medium=Hashtag&utm_campaign=2023loketmusik"
     },
     {
       "id": 2,
-      "imageCarousel": "https://i.postimg.cc/k5WnqVqF/1690260495-Pra-Zyu-1.jpg"
+      "imageCarousel": "https://loket-production-sg.s3.ap-southeast-1.amazonaws.com/images/ss/1696357756_Z9XJhc.jpg"
     },
     {
       "id": 3,
-      "imageCarousel": "https://i.postimg.cc/cHDNTfdh/1690901880-BOBxv-Q-1.jpg"
+      "imageCarousel": "https://loket-production-sg.s3.ap-southeast-1.amazonaws.com/images/ss/1693561841_CBDkSD.jpg"
     }
   ],
   "users": [
